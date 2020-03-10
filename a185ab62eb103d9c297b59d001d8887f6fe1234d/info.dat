@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "What have you Done",
+  "_songSubName": "",
+  "_songAuthorName": "Within Temptation feat Keith Caputo",
+  "_levelAuthorName": "Filletus",
+  "_beatsPerMinute": 172,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 89,
+  "_previewDuration": 10,
+  "_songFilename": "Within Temptation feat. Keith Caputo - What Have You Done my-free-mp3s.com .egg",
+  "_coverImageFilename": "WHYD.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 100,
+            "_editorOldOffset": 100,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

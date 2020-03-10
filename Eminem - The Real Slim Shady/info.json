@@ -1,0 +1,20 @@
+﻿{
+  "songName": "The Real Slim Shady",
+  "songSubName": "",
+  "authorName": "Eminem",
+  "beatsPerMinute": 120,
+  "previewStartTime": 0,
+  "previewDuration": 10,
+  "coverImagePath": "4bb3da56aab1cbc7cb2c0b9c6d150b27.jpg",
+  "environmentName": "NiceEnvironment",
+  "difficultyLevels": [
+    {
+      "difficulty": "ExpertPlus",
+      "difficultyRank": 5,
+      "audioPath": "The Real Slim Shady - Eminem [Lyrics].ogg",
+      "jsonPath": "ExpertPlus.json",
+      "madeby": "osu2saber",
+      "offset": 0
+    }
+  ]
+}

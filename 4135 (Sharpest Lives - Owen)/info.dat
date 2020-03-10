@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Sharpest Lives",
+  "_songSubName": "",
+  "_songAuthorName": "",
+  "_levelAuthorName": "MCR",
+  "_beatsPerMinute": 156,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 14.059733390808105,
+  "_previewDuration": 15.286185264587402,
+  "_songFilename": "Sharp Lives.egg",
+  "_coverImageFilename": "Sharp Lives.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
