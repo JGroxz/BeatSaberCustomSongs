@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Tears Don't Fall",
+  "_songSubName": "",
+  "_songAuthorName": "Bullet For My Valentine",
+  "_levelAuthorName": "LEh4nnes",
+  "_beatsPerMinute": 162,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Bullet For My Valentine - Tears Don't Fall (Album Edit - with Scream with Lighter).egg",
+  "_coverImageFilename": "tears don't fall.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 60,
+            "_editorOldOffset": 60,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
