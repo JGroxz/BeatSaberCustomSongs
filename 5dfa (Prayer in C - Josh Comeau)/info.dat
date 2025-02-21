@@ -1,0 +1,43 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Prayer in C",
+  "_songSubName": "Robin Schulz Remix",
+  "_songAuthorName": "Lilly Wood & The Prick",
+  "_levelAuthorName": "Josh Comeau",
+  "_beatsPerMinute": 123,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 25,
+  "_previewDuration": 16,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_editorOffset": 2000,
+            "_difficultyLabel": "",
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

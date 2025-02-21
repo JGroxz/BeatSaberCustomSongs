@@ -1,0 +1,76 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Push Up",
+  "_songSubName": "Main Edit",
+  "_songAuthorName": "Creeds",
+  "_levelAuthorName": "thelitlewiseowl",
+  "_beatsPerMinute": 150,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "_lastEditedBy": "MMA2",
+      "MMA2": {
+        "version": "4.8.1"
+      },
+      "Lolighter": {
+        "version": "1.0.5"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.65,
+          "_customData": {
+            "_difficultyLabel": "ExpertPlus",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRightBoost": {
+              "r": 0.8901900053024292,
+              "g": 0.3960779905319214,
+              "b": 0.7568619847297668
+            },
+            "_envColorLeftBoost": {
+              "r": 0.800000011920929,
+              "g": 0.9097999930381775,
+              "b": 0.800000011920929
+            },
+            "_envColorRight": {
+              "r": 0.125490203499794,
+              "g": 0.3921568989753723,
+              "b": 0.6588234901428223
+            },
+            "_envColorLeft": {
+              "r": 0.7529411911964417,
+              "g": 0.1882352977991104,
+              "b": 0.1882352977991104
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
